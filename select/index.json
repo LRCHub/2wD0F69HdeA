@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "base_track": "B:chake SOUL",
+  "base_track": "絶対的I-DOL衝動",
   "base_artist": "SiLENT←NOiSE",
-  "createdAt": "2026-03-13T04:48:20.797660Z",
+  "createdAt": "2026-03-13T04:52:19.563657Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "B:chake SOUL",
+      "title": "絶対的I-DOL衝動",
       "artist": "SiLENT←NOiSE",
       "has_synced": false,
-      "path": "select/pl_01_B_chake_SOUL_SiLENT←NOiSE.txt"
+      "path": "select/pl_01_絶対的I-DOL衝動_SiLENT←NOiSE.txt"
     }
   ]
 }
