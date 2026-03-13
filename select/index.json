@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "B:chake SOUL",
+  "base_artist": "SiLENT←NOiSE",
+  "createdAt": "2026-03-13T01:50:04.788632Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "B:chake SOUL",
+      "artist": "SiLENT←NOiSE",
+      "has_synced": false,
+      "path": "select/pl_01_B_chake_SOUL_SiLENT←NOiSE.txt"
+    }
+  ]
+}
