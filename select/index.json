@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "base_track": "絶対的I-DOL衝動",
+  "base_track": "ルナティック・デスティニー",
   "base_artist": "SiLENT←NOiSE",
-  "createdAt": "2026-03-13T01:55:40.950384Z",
+  "createdAt": "2026-03-13T03:34:22.573898Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "絶対的I-DOL衝動",
+      "title": "ルナティック・デスティニー",
       "artist": "SiLENT←NOiSE",
       "has_synced": false,
-      "path": "select/pl_01_絶対的I-DOL衝動_SiLENT←NOiSE.txt"
+      "path": "select/pl_01_ルナティック・デスティニー_SiLENT←NOiSE.txt"
     }
   ]
 }
