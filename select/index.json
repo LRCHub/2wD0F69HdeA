@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "base_track": "絶対的I-DOL衝動",
+  "base_track": "命短シ夢見ヨ乙女",
   "base_artist": "SiLENT←NOiSE",
-  "createdAt": "2026-03-13T04:52:19.563657Z",
+  "createdAt": "2026-03-13T07:29:25.978538Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "絶対的I-DOL衝動",
+      "title": "命短シ夢見ヨ乙女",
       "artist": "SiLENT←NOiSE",
       "has_synced": false,
-      "path": "select/pl_01_絶対的I-DOL衝動_SiLENT←NOiSE.txt"
+      "path": "select/pl_01_命短シ夢見ヨ乙女_SiLENT←NOiSE.txt"
     }
   ]
 }
