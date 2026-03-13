@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "base_track": "ルナティック・デスティニー",
+  "base_track": "B:chake SOUL",
   "base_artist": "SiLENT←NOiSE",
-  "createdAt": "2026-03-13T03:34:22.573898Z",
+  "createdAt": "2026-03-13T04:48:20.797660Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ルナティック・デスティニー",
+      "title": "B:chake SOUL",
       "artist": "SiLENT←NOiSE",
       "has_synced": false,
-      "path": "select/pl_01_ルナティック・デスティニー_SiLENT←NOiSE.txt"
+      "path": "select/pl_01_B_chake_SOUL_SiLENT←NOiSE.txt"
     }
   ]
 }
